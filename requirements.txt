@@ -4,3 +4,4 @@ timm
 opencv-python
 git+https://github.com/dhkim2810/MobileSAM.git
 matplotlib
+fastapi
