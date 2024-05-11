@@ -1,3 +1,16 @@
 venv
 generated
 __pycache__
+
+# JetBrains IDE
+.idea/
+
+# Temporary files
+*.png
+*.jpg
+*.jpeg
+*temp*
+
+# Ignore specific xml files often specific to a user's local configuration
+*.iml
+*.xml
