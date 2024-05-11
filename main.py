@@ -19,6 +19,7 @@ mobile_sam.eval()
 mask_generator = SamAutomaticMaskGenerator(mobile_sam)
 predictor = SamPredictor(mobile_sam)
 
+
 @torch.no_grad()
 def segment_everything(
     image,
