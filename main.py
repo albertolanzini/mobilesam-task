@@ -54,7 +54,6 @@ def segment_everything(
     return fig
 
 
-
 if __name__ == "__main__":
     input_path = "resources/dog.jpg"
     output_path = "generated/output.png"
