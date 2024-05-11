@@ -51,7 +51,7 @@
    ```commandline
    http://0.0.0.0:8000/segment-image
    ```
-   Make sure to use *file* as a key and upload the image you'd like to segment as a value.
+   Make sure to use *file* as a key in the body of type **form-data** and upload the image you'd like to segment as a value.
 
 
 
